@@ -9,7 +9,6 @@ This is completly based on deep learning nueral network and implented using Tens
 - Scikit-learn (0.19.1)
 - Opencv (2.4.9.1)
 
-For ipmlementation and run this code follow [this BLOG link](http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/). Implemention in video is shown [HERE](https://youtu.be/dLrWDUPkpIg?list=PLCK5Mm9zwPkEhwu2OOw2CgO5ikoLdR36l).
 
 ### Usage:
 
